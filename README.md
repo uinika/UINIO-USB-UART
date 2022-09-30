@@ -5,3 +5,5 @@
 ![](./Images/PCB-3D-1.png)
 
 ![](./Images/PCB-3D-2.png)
+
+https://www.silabs.com/interface/usb-bridges/classic/device.cp2102
