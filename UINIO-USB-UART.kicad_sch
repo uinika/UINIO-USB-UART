@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "UINIO-USB-UART")
+    (date "2022-10-11")
+    (rev "Hank")
+    (company "电子技术博客 UinIO.com")
+  )
+
   (lib_symbols
     (symbol "Connector:Conn_01x04_Male" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at 0 5.08 0)
