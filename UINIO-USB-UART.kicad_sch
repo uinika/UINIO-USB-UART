@@ -1673,11 +1673,11 @@
     (uuid fe6dca8a-2e4f-4872-ba29-b4d6629a8533)
   )
 
-  (text "CP2102 USB 转 UART" (at 114.3 193.04 0)
+  (text "CP2102 USB 转 UART" (at 116.84 193.04 0)
     (effects (font (size 3 3) (thickness 0.6) bold) (justify left bottom))
     (uuid 0e6b9836-0219-4446-a181-103cef661a03)
   )
-  (text "CH343P USB 转 UART" (at 222.25 95.885 0)
+  (text "CH343P USB 转 UART" (at 226.06 96.52 0)
     (effects (font (size 3 3) (thickness 0.6) bold) (justify left bottom))
     (uuid b6883435-5dce-46f3-afa1-8dc82f8abe11)
   )
