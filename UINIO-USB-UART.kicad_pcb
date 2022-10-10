@@ -6009,7 +6009,7 @@
     (effects (font (size 0.8 0.8) (thickness 0.2)))
   )
 
-  (via (at 194.68 91.72) (size 1.5) (drill 1.2) (layers "F.Cu" "B.Cu") (free) (net 2) (tstamp 07d5b7bb-520d-4e9d-8119-cdcc95df576b))
+  (via (at 194.75 91.62) (size 1.5) (drill 1.2) (layers "F.Cu" "B.Cu") (free) (net 2) (tstamp 07d5b7bb-520d-4e9d-8119-cdcc95df576b))
   (via (at 165.59 107.72) (size 1.5) (drill 1.2) (layers "F.Cu" "B.Cu") (free) (net 2) (tstamp 3e17fc05-c39f-4564-bfd9-6df29541c4d1))
   (via (at 126.48 108.1) (size 1.5) (drill 1.2) (layers "F.Cu" "B.Cu") (free) (net 2) (tstamp 5beb9e27-497c-402e-b36c-652d1518a087))
   (via (at 194.73 107.99) (size 1.5) (drill 1.2) (layers "F.Cu" "B.Cu") (free) (net 2) (tstamp 63a5b383-025a-4ee2-948f-4bfa46524f7e))
