@@ -5819,7 +5819,7 @@
   (gr_text "RTS" (at 153.773452 103.86) (layer "B.SilkS") (tstamp 5b44c78e-4f94-499c-a1e4-a3e0606fe43d)
     (effects (font (size 0.8 0.8) (thickness 0.2)) (justify mirror))
   )
-  (gr_text "UINIO-USB-UART-CH343" (at 124.98 99.83 90) (layer "B.SilkS") (tstamp 61f21fe8-47d2-4783-a59f-fb7ff42d5b5a)
+  (gr_text "UINIO-USB-UART-CH343" (at 125.05 99.82 90) (layer "B.SilkS") (tstamp 61f21fe8-47d2-4783-a59f-fb7ff42d5b5a)
     (effects (font (size 0.5 0.5) (thickness 0.1)) (justify mirror))
   )
   (gr_text "RTS" (at 143.8325 93.62 90) (layer "B.SilkS") (tstamp 641ef439-c7f1-4d98-aacd-e50674e7ab5e)
