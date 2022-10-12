@@ -28,7 +28,7 @@
   (pad "3" smd roundrect (at -1.255 0.95) (size 1.21 0.59) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.15) (tstamp 037d536a-8ecb-41a6-b1c1-d84222ffec53))
   (pad "4" smd roundrect (at 1.255 0.95) (size 1.21 0.59) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.15) (tstamp f1b461f1-7a4f-49f1-b0d9-e5daa1a0d531))
   (pad "5" smd roundrect (at 1.255 -0.95) (size 1.21 0.59) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.15) (tstamp 716653ee-a08e-42be-9de8-a5920efcd055))
-  (model "${KIPRJMOD}/Libraries/Uinika.Model/LP2992IM5-3.3.step"
+  (model "${KIPRJMOD}/Libraries/Uinio.3D/LP2992IM5-3.3.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

@@ -276,7 +276,7 @@
   (pad "B5" smd rect (at 0.5 -2.4) (size 0.7 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 726b9334-867b-40f8-b600-d146bf0129b2))
   (pad "B9" smd rect (at -1.52 -2.4) (size 0.7 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 10a64f2e-7910-4342-9e61-364cce57c258))
   (pad "B12" smd rect (at -2.75 -2.4) (size 0.8 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e6342a73-14cb-4f13-8e1b-ca853df07e76))
-  (model "${KIPRJMOD}/Libraries/Uinika.Model/USB-TYPEC-250-BRP6L68.wrl"
+  (model "${KIPRJMOD}/Libraries/Uinio.3D/USB-TYPEC-250-BRP6L68.wrl"
     (offset (xyz 0 -1 1.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

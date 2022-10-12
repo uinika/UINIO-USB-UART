@@ -76,7 +76,7 @@
   (pad "2" smd rect (at -2.4 1.6) (size 1.2 0.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bad220d9-75d2-40c5-aad5-0ad5d4bc52ef))
   (pad "3" smd rect (at 2.4 1.6) (size 1.2 0.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cbd9bdac-7b18-48bc-8c35-86417269e53b))
   (pad "4" smd rect (at 2.4 -1.6) (size 1.2 0.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1f354e0b-959c-4181-bd7f-5f81270b0729))
-  (model "${KIPRJMOD}/Libraries/Uinika.3D/RGB_WS2812B_5050.wrl"
+  (model "${KIPRJMOD}/Libraries/Uinio.3D/RGB_WS2812B_5050.wrl"
     (offset (xyz 0 0 0.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

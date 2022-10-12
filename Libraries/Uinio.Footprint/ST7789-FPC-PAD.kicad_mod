@@ -120,7 +120,7 @@
   (pad "10" smd roundrect (at 6 -3.8) (size 5 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp e2f4905d-1071-4f3c-b20e-1d7fc7fc794a))
   (pad "11" smd roundrect (at 6 -3.1) (size 5 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 54828294-838d-4021-a967-3187a63b9e67))
   (pad "12" smd roundrect (at 6 -2.4) (size 5 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp a641f153-440b-40d6-ae8a-365bdbc92ac4))
-  (model "${KIPRJMOD}/Libraries/Uinika.Model/LCD-ST7789-1.3.step"
+  (model "${KIPRJMOD}/Libraries/Uinio.3D/LCD-ST7789-1.3.step"
     (offset (xyz 1 8.6 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 180 -90))

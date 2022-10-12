@@ -28,7 +28,7 @@
   (pad "4" smd rect (at 1.375 0.5) (size 0.55 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp aa9d7739-3699-4f90-b9e9-1cb3a3a0f28d))
   (pad "5" smd rect (at 1.375 0) (size 0.55 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5faf28ad-f1bf-486b-83e4-dbac6299a365))
   (pad "6" smd rect (at 1.375 -0.5) (size 0.55 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 29e3803c-04bc-4f42-a778-0d10bfb05f11))
-  (model "${KIPRJMOD}/Libraries/Uinika.Model/BH1750FVI-TR.step"
+  (model "${KIPRJMOD}/Libraries/Uinio.3D/BH1750FVI-TR.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

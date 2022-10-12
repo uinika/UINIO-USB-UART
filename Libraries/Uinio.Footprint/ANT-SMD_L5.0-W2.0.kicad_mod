@@ -42,7 +42,7 @@
   (fp_line (start 2.5 -1) (end 2.5 1) (layer "F.CrtYd") (width 0.12) (tstamp 673c74f9-7f27-4f2c-897c-0634e09ffa07))
   (pad "1" smd rect (at -2.5 0) (size 0.8 2.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7674e847-77b1-4430-bceb-ff000bade731))
   (pad "2" smd rect (at 2.5 0) (size 0.8 2.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 98bf1a69-3f87-4f3f-9bad-e66b6184f8b8))
-  (model "${KIPRJMOD}/Libraries/Uinika.Model/ANT-SMD_L5.0-W2.0.wrl"
+  (model "${KIPRJMOD}/Libraries/Uinio.3D/ANT-SMD_L5.0-W2.0.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

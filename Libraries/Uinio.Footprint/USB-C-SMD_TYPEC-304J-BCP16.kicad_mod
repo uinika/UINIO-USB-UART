@@ -362,17 +362,7 @@
   (pad "B6" smd rect (at 0.75 -2.481) (size 0.3 1.15) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9b298e1c-02de-42c1-b346-e4142f70715d))
   (pad "B7" smd rect (at -0.75 -2.481) (size 0.3 1.15) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 50a1d145-7b61-4107-ab73-5d5fa97311aa))
   (pad "B8" smd rect (at -1.75 -2.481) (size 0.3 1.15) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 21aac321-48af-4c6d-b221-463df70019d1))
-  (model "${KIPRJMOD}/kicad_lceda.3dshapes/USB-C-SMD_TYPEC-304J-BCP16.step"
-    (offset (xyz 0 -1.15 -2))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
-  (model "${KIPRJMOD}/kicad_lceda.3dshapes/USB-C-SMD_TYPEC-304J-BCP16.wrl"
-    (offset (xyz 0 -1.15 -2))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
-  (model "${KIPRJMOD}/Libraries/Uinika.Model/USB-C-SMD_TYPEC-304J-BCP16.wrl"
+  (model "${KIPRJMOD}/Libraries/Uinio.3D/USB-C-SMD_TYPEC-304J-BCP16.wrl"
     (offset (xyz 0 -1.5 1.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

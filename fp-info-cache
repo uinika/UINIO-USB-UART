@@ -1,4 +1,4 @@
-20500357538072174
+20495473988679437
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85260,19 +85260,12 @@ G+D-small
 0
 0
 Uinio
-LED-SMD_4P-L3.5-W3.5-TL_WS2812B
+Hole-1mm
 
 
 0
-4
-4
-Uinio
-LED_WS2812B-B
-
-
-0
-4
-4
+1
+1
 Uinio
 QFN-24_L4.0-W4.0-P0.50-BL-EP2.7
 
@@ -85330,13 +85323,6 @@ SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL
 16
 16
 Uinio
-SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR
-
-
-0
-3
-3
-Uinio
 SOT-23-3_L2.9-W1.6-P1.90-LS2.9-BL
 
 
@@ -85352,13 +85338,6 @@ SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR
 5
 Uinio
 SOT-223-3_L6.6-W3.5-P2.30-LS7.0-BL
-
-
-0
-4
-4
-Uinio
-SOT-223-4_L6.5-W3.5-P2.30-LS7.0-BR
 
 
 0

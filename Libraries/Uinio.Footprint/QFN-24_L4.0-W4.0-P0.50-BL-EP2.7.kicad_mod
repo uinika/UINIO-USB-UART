@@ -1105,7 +1105,7 @@
   (pad "23" smd oval (at -2 0.75) (size 0.8 0.28) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 110d08da-b4f7-4078-a5e7-e3cf0bf3aa88))
   (pad "24" smd oval (at -2 1.25) (size 0.8 0.28) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 66bb212d-4ba4-4a43-bb39-2774e1d51c6e))
   (pad "25" smd rect (at 0.012 0) (size 2.7 2.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2e8c323a-d265-49c8-bd3d-a849dc60da3d))
-  (model "${KIPRJMOD}/Libraries/Uinika.Model/MPU6050.step"
+  (model "${KIPRJMOD}/Libraries/Uinio.3D/MPU6050.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

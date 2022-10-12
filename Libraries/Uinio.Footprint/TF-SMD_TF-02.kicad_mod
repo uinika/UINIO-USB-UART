@@ -116,17 +116,7 @@
   (pad "11" smd rect (at -7.746 5.3) (size 1.2 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f8aa868f-ba23-4597-b563-886aa6947d9f))
   (pad "12" smd rect (at 7.754 5.3) (size 1.2 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b3a3a4d2-9aba-41d9-bb36-4cbd547d897b))
   (pad "13" smd rect (at 6.854 -4.3) (size 1.6 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 50b7b637-6079-44be-8868-ab4fff69579a))
-  (model "${KIPRJMOD}/kicad_lceda.3dshapes/TF-SMD_TF-02.step"
-    (offset (xyz 0.004 -2.178 -0.6))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
-  (model "${KIPRJMOD}/kicad_lceda.3dshapes/TF-SMD_TF-02.wrl"
-    (offset (xyz 0.004 -2.178 -0.6))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
-  (model "${KIPRJMOD}/Libraries/Uinika.Model/TF-SMD_TF-02.wrl"
+  (model "${KIPRJMOD}/Libraries/Uinio.3D/TF-SMD_TF-02.wrl"
     (offset (xyz 0 -2 2))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

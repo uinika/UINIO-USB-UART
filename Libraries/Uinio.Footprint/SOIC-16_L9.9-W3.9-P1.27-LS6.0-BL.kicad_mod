@@ -198,7 +198,7 @@
   (pad "14" smd oval (at -1.905 -2.736) (size 0.602 1.971) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 456243e2-e34b-4b45-803f-62684da9b81d))
   (pad "15" smd oval (at -3.175 -2.736) (size 0.602 1.971) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5f205d3e-375b-4839-a8fa-3ed111c43c06))
   (pad "16" smd oval (at -4.445 -2.736) (size 0.602 1.971) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fa4d2889-ef8d-4f7c-bd9f-e9a34063fde0))
-  (model "${KIPRJMOD}/Libraries/Uinika.Model/SOIC-16_L9.9-W3.9-H1.8-LS6.0-P1.27.wrl"
+  (model "${KIPRJMOD}/Libraries/Uinio.3D/SOIC-16_L9.9-W3.9-H1.8-LS6.0-P1.27.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

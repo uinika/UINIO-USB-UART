@@ -54,7 +54,7 @@
   (pad "1" smd rect (at -0.95 1.135 270) (size 1.07 0.532) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp af6f285a-fbaf-45df-9126-f8df4cd441f0))
   (pad "2" smd rect (at 0.95 1.135 270) (size 1.07 0.532) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 093ea14c-d49e-42c6-8826-b2f92ce9f43c))
   (pad "3" smd rect (at 0 -1.135 270) (size 1.07 0.532) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 57a00cbc-293a-4463-a431-48f7d4a6d2b0))
-  (model "${KIPRJMOD}/Libraries/Uinika.Model/SOT-23-3_L2.9-W1.6-P1.90-LS2.9-BL.wrl"
+  (model "${KIPRJMOD}/Libraries/Uinio.3D/SOT-23-3_L2.9-W1.6-P1.90-LS2.9-BL.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
