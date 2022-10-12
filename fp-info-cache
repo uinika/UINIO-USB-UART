@@ -1,4 +1,4 @@
-20495473988679437
+20500475326882355
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85265,7 +85265,28 @@ Hole-1mm
 
 0
 1
+0
+Uinio
+Hole-2.6mm
+
+
+0
+0
+0
+Uinio
+Hole-2mm
+
+
+0
 1
+0
+Uinio
+Hole-3mm
+
+
+0
+1
+0
 Uinio
 QFN-24_L4.0-W4.0-P0.50-BL-EP2.7
 
