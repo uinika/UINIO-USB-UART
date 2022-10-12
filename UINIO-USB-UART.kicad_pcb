@@ -6161,7 +6161,7 @@
   (gr_text "CTS" (at 174.353 106.165523 270) (layer "F.SilkS") (tstamp ad9fdace-fa8b-4c0c-9644-2812cde04cc0)
     (effects (font (size 0.8 0.8) (thickness 0.2)))
   )
-  (gr_text "3.3V" (at 136.03 105.93 180) (layer "F.SilkS") (tstamp b3e66d47-4c95-4edd-9519-ff3fc435e938)
+  (gr_text "3.3V" (at 135.73 105.92 180) (layer "F.SilkS") (tstamp b3e66d47-4c95-4edd-9519-ff3fc435e938)
     (effects (font (size 0.8 0.8) (thickness 0.2)))
   )
   (gr_text "RXD" (at 181.9728 106.070285 270) (layer "F.SilkS") (tstamp b420ad10-3d4d-47a5-b493-a57cbf9f5eb1)
