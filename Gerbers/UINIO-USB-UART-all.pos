@@ -1,4 +1,4 @@
-### Module positions - created on Fri Oct 14 17:13:10 2022 ###
+### Module positions - created on Mon Oct 17 11:35:29 2022 ###
 ### Printed by Pcbnew version (6.0.8)
 ## Unit = mm, Angle = deg.
 ## Side : All
@@ -11,9 +11,9 @@ C1        0.1uF             C_0603_1608Metric                  184.6100   -97.15
 C2        1uF               C_0603_1608Metric                  184.6100   -98.6700    0.0000  top
 C3        0.1uF             C_0603_1608Metric                  184.6200  -103.0300    0.0000  top
 C4        4.7uF             C_0603_1608Metric                  184.6100  -101.4680    0.0000  top
-C5        0.1uF             C_0603_1608Metric                  141.2900  -103.9800  180.0000  top
-C6        0.1uF             C_0603_1608Metric                  135.5728   -98.5900    0.0000  top
-C7        1uF               C_0603_1608Metric                  141.3688   -96.5200    0.0000  top
+C5        0.1uF             C_0603_1608Metric                  141.3000  -103.8500  180.0000  top
+C6        0.1uF             C_0603_1608Metric                  135.8700   -99.4400    0.0000  top
+C7        1uF               C_0603_1608Metric                  141.3000   -95.9800    0.0000  top
 D1        Green_LED         LED_0603_1608Metric                133.6045   -93.3740  180.0000  top
 D2        BLUE_LED          LED_0603_1608Metric                171.3925   -97.1600  180.0000  top
 D3        BLUE_LED          LED_0603_1608Metric                171.3860  -102.8520  180.0000  top
@@ -24,12 +24,12 @@ F1        Polyfuse          Fuse_1206_3216Metric               130.8125   -92.42
 F2        Polyfuse          Fuse_1206_3216Metric               190.0600  -107.5700    0.0000  top
 Hole1     Hole-1mm          Hole-1mm                           126.4400   -91.6500    0.0000  top
 Hole2     Hole-1mm          Hole-1mm                           126.5400  -108.3500    0.0000  top
-Hole3     Hole-1mm          Hole-1mm                           156.1400  -108.1100    0.0000  top
-Hole4     Hole-1mm          Hole-1mm                           156.2800   -91.6500    0.0000  top
+Hole3     Hole-1mm          Hole-1mm                           156.2600  -108.3300    0.0000  top
+Hole4     Hole-1mm          Hole-1mm                           156.2600   -91.6000    0.0000  top
 Hole5     Hole-1mm          Hole-1mm                           165.4500   -91.6700    0.0000  top
 Hole6     Hole-1mm          Hole-1mm                           165.4200  -108.1500    0.0000  top
-Hole7     Hole-1mm          Hole-1mm                           194.7000  -108.2400    0.0000  top
-Hole8     Hole-1mm          Hole-1mm                           194.8400   -91.7900    0.0000  top
+Hole7     Hole-1mm          Hole-1mm                           194.8200  -108.0800    0.0000  top
+Hole8     Hole-1mm          Hole-1mm                           194.8200   -91.6500    0.0000  top
 J2        Conn_01x04_Male   PinHeader_1x04_P2.54mm_Vertical    164.6400  -103.8200  180.0000  top
 J5        Conn_01x04_Male   PinHeader_1x04_P2.54mm_Vertical    156.4325  -103.8500  180.0000  top
 R1        2K                R_0603_1608Metric                  133.6025   -91.4300    0.0000  top
@@ -38,7 +38,7 @@ R3        2K                R_0603_1608Metric                  171.3900  -101.29
 R4        2K                R_0603_1608Metric                  190.9100   -93.2700  180.0000  top
 R5        2K                R_0603_1608Metric                  147.9925   -98.7267    0.0000  top
 R6        2K                R_0603_1608Metric                  147.9925  -101.3300    0.0000  top
-SW1       TP-33103          SW-TH_ROCPU_TP-33103               133.5400  -107.4800    0.0000  top
+SW1       SWITCH_TP33103    SW-TH_ROCPU_TP-33103               133.4600  -107.3900    0.0000  top
 U1        CP2102            QFN-28_L5.0-W5.0-P0.50-TL-EP3.3    178.3900  -100.2600  180.0000  top
 U2        CH343P            TQFN-16_L3.0-W3.0-P0.50-BL-EP1.7   139.8128  -100.0100  180.0000  top
 USB1      USB_Type_C_16Pin  USB-C-SMD_TYPEC-304J-BCP16         128.9525   -99.7700  -90.0000  top
