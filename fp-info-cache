@@ -1,4 +1,4 @@
-20500475326882355
+20503807274058912
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85271,7 +85271,7 @@ Hole-2.6mm
 
 
 0
-0
+1
 0
 Uinio
 Hole-2mm
@@ -85386,7 +85386,21 @@ SW-SMD_L6.0-W3.3-LS8.0-1
 2
 2
 Uinio
+SW-TH_MSS-22D18
+
+
+0
+6
+6
+Uinio
 SW-TH_ROCPU_TP-33103
+
+
+0
+3
+3
+Uinio
+SW-TH_SS-12D01-GX
 
 
 0
