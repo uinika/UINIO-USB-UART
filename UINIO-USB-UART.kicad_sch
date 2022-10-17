@@ -1839,7 +1839,7 @@
     (uuid fe6dca8a-2e4f-4872-ba29-b4d6629a8533)
   )
 
-  (text "CP2102 USB 转 UART" (at 116.84 193.04 0)
+  (text "CP2102 USB 转 UART" (at 118.11 193.04 0)
     (effects (font (size 3 3) (thickness 0.6) bold) (justify left bottom))
     (uuid 0e6b9836-0219-4446-a181-103cef661a03)
   )
