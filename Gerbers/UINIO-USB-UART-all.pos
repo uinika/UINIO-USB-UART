@@ -1,4 +1,4 @@
-### Module positions - created on Sat Oct 22 16:56:58 2022 ###
+### Module positions - created on Sun Oct 30 13:33:09 2022 ###
 ### Printed by Pcbnew version (6.0.8)
 ## Unit = mm, Angle = deg.
 ## Side : All
@@ -22,14 +22,14 @@ D5        BLUE_LED          LED_0603_1608Metric                148.0125   -96.96
 D6        BLUE_LED          LED_0603_1608Metric                148.0125  -103.0967  180.0000  top
 F1        Polyfuse          Fuse_1206_3216Metric               130.8125   -92.4200   90.0000  top
 F2        Polyfuse          Fuse_1206_3216Metric               190.0600  -107.5700    0.0000  top
-Hole1     Hole-1mm          Hole-1mm                           126.4400   -91.6500    0.0000  top
-Hole2     Hole-1mm          Hole-1mm                           126.5400  -108.3500    0.0000  top
-Hole3     Hole-1mm          Hole-1mm                           156.2600  -108.3300    0.0000  top
+Hole1     Hole-1mm          Hole-1mm                           126.1200   -91.6600    0.0000  top
+Hole2     Hole-1mm          Hole-1mm                           126.1200  -108.2500    0.0000  top
+Hole3     Hole-1mm          Hole-1mm                           156.2500  -108.2500    0.0000  top
 Hole4     Hole-1mm          Hole-1mm                           156.2600   -91.6000    0.0000  top
-Hole5     Hole-1mm          Hole-1mm                           165.4500   -91.6700    0.0000  top
-Hole6     Hole-1mm          Hole-1mm                           165.4200  -108.1500    0.0000  top
-Hole7     Hole-1mm          Hole-1mm                           194.8200  -108.0800    0.0000  top
-Hole8     Hole-1mm          Hole-1mm                           194.8200   -91.6500    0.0000  top
+Hole5     Hole-1mm          Hole-1mm                           164.8300   -91.5800    0.0000  top
+Hole6     Hole-1mm          Hole-1mm                           164.8300  -108.2000    0.0000  top
+Hole7     Hole-1mm          Hole-1mm                           195.0300  -108.1900    0.0000  top
+Hole8     Hole-1mm          Hole-1mm                           195.0300   -91.5800    0.0000  top
 J2        Conn_01x04_Male   PinHeader_1x04_P2.54mm_Vertical    164.6400  -103.8200  180.0000  top
 J5        Conn_01x04_Male   PinHeader_1x04_P2.54mm_Vertical    156.4325  -103.8500  180.0000  top
 J7        Conn_01x03_Male   PinHeader_1x03_P2.54mm_Vertical    130.6400  -108.7000   90.0000  top
