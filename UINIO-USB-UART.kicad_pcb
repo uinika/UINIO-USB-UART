@@ -1626,7 +1626,7 @@
 
   (footprint "LOGO" (layer "F.Cu")
     (tedit 0) (tstamp ab14ae6a-31a1-4360-babc-dd3f3f0da8e1)
-    (at 133.32 99.87 90)
+    (at 133.56 99.86 90)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "" (at 0 0 90) (layer "F.SilkS")
       (effects (font (size 1.524 1.524) (thickness 0.3)))
