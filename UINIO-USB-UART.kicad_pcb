@@ -3811,7 +3811,7 @@
     (property "uuid" "std:7d19d6f006684f60afb0c218c16ed1d9")
     (path "/f9f0ec6d-076d-4cd3-8e74-63adeb9cbeee")
     (attr through_hole)
-    (fp_text reference "U2" (at -1.84 -0.0915 180) (layer "F.SilkS")
+    (fp_text reference "U2" (at -1.84 0.0485 180) (layer "F.SilkS")
       (effects (font (size 0.7 0.7) (thickness 0.1)) (justify left))
       (tstamp 71d45191-c72b-4fe9-a2e8-01a39d7ee6ae)
     )
