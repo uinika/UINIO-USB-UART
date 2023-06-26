@@ -1992,7 +1992,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid dbefd816-c9c3-49d8-9ca3-0a80dc7f9ca9)
   )
-  (label "CH343_VDD_3.3V" (at 208.28 45.72 0) (fields_autoplaced)
+  (label "CH343_VDD_3.3V" (at 208.28 40.64 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid e779ab25-f0f8-4be6-bad3-b4dd91625fe8)
   )
@@ -2024,7 +2024,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f88a65db-91b6-41fc-bd94-dc536dff5eec)
   )
-  (label "CH343_VDD_5V" (at 208.28 40.64 0) (fields_autoplaced)
+  (label "CH343_VDD_5V" (at 208.28 45.72 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f999c73f-8ce4-4f9e-afef-9b34b964a577)
   )
@@ -3614,8 +3614,8 @@
     (property "Datasheet" "~" (at 57.15 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c0eba632-6fff-43ba-9e7a-781f3d59a66b))
-    (pin "2" (uuid 918f98bc-0c04-4f12-82fc-14402bfe31d8))
+    (pin "1" (uuid c679a305-1dbb-490d-9101-eddddc150454))
+    (pin "2" (uuid 36e5e65f-e9c7-4e4b-b785-a8a9a0f2b961))
     (instances
       (project "UINIO-USB-UART"
         (path "/bb5f44ea-bd9e-480c-ba92-411494da6151"
