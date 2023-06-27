@@ -61,7 +61,9 @@
           "width": 0.28
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "unconnected_items|157768185|88895211|5ec52fff-5edd-4497-a36b-29d0d8931300|5ec52fff-5edd-4497-a36b-29d0d8931300"
+      ],
       "meta": {
         "version": 2
       },
