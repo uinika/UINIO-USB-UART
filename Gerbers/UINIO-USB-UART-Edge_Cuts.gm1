@@ -1,11 +1,11 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,7.0.5*%
-%TF.CreationDate,2023-07-03T11:58:06+08:00*%
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.6*%
+%TF.CreationDate,2023-07-09T03:07:14+08:00*%
 %TF.ProjectId,UINIO-USB-UART,55494e49-4f2d-4555-9342-2d554152542e,Version 3.2.0*%
 %TF.SameCoordinates,PX8b79910PY5020b20*%
 %TF.FileFunction,Profile,NP*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.5) date 2023-07-03 11:58:06*
+G04 Created by KiCad (PCBNEW 7.0.6) date 2023-07-09 03:07:14*
 %MOMM*%
 %LPD*%
 G01*
