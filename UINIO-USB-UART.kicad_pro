@@ -61,7 +61,9 @@
           "width": 0.28
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "copper_sliver|162266816|92686315|00000000-0000-0000-0000-000000000000|B.Cu"
+      ],
       "meta": {
         "version": 2
       },
