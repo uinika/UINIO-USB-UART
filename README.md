@@ -1,6 +1,6 @@
 # UINIO-USB-UART
 
-基于[**苏州沁恒 CH343**]() 以及[**美国芯科 CP2102**](https://www.silabs.com/interface/usb-bridges/classic/device.cp2102) 两款 USB 转 UART 芯片的开源串口调试工具。
+这是一款分别基于[**苏州沁恒 CH343P**](https://www.wch.cn/products/CH343.html) 和[**美国芯科 CP2102**](https://www.silabs.com/interface/usb-bridges/classic/device.cp2102) 主控芯片的 USB 转 UART 的开源串口调试器电路设计。
 
 ![](./Images/PCB-3D-1.png)
 
