@@ -1,6 +1,6 @@
 # UINIO-USB-UART 串口调试器
 
-[**UINIO-USB-UART**](https://github.com/uinika/UINIO-USB-UART) 是一款分别基于[**苏州沁恒 CH343P**](https://www.wch.cn/products/CH343.html) 和[**美国芯科 CP2102**](https://www.silabs.com/interface/usb-bridges/classic/device.cp2102) 芯片的 **USB** 转 **UART** 的开源串口调试器电路设计，两款芯片都可以稳定的支持 `921600` 波特率通信。
+[**UINIO-USB-UART**](https://gitee.com/uinika/UINIO-USB-UART) 是一款分别基于[**苏州沁恒 CH343P**](https://www.wch.cn/products/CH343.html) 和[**美国芯科 CP2102**](https://www.silabs.com/interface/usb-bridges/classic/device.cp2102) 芯片的 **USB** 转 **UART** 的开源串口调试器电路设计，两款芯片都可以稳定的支持 `921600` 波特率通信。
 
 ![](./Images/PCB-3D-1.png)
 

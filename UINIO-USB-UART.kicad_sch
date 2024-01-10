@@ -6,9 +6,9 @@
 
   (title_block
     (title "UINIO-USB-UART")
-    (date "2023-06-27")
-    (rev "Version 3.2.0")
-    (company "电子技术博客 UinIO.com")
+    (date "2024-01-10")
+    (rev "Version 3.2.1")
+    (company "UinIO.com 电子技术实验室")
   )
 
   (lib_symbols
