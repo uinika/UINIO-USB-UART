@@ -1,6 +1,6 @@
 # UINIO-USB-UART-CH343 串口调试器
 
-[**UINIO-USB-UART-CH343**](https://gitee.com/uinika/UINIO-USB-UART) 是一款基于[**苏州沁恒 CH343P**](https://www.wch.cn/products/CH343.html) 芯片的 **USB** 转 **UART** 的开源串口调试器，该款芯片采用了小尺寸的 `QFN16` 封装，可以稳定支持 `921600` 波特率的 UART 串口通信。
+[**UINIO-USB-UART-CH343**](https://gitee.com/uinika/UINIO-USB-UART-CH343) 是一款基于[**苏州沁恒 CH343P**](https://www.wch.cn/products/CH343.html) 芯片的 **USB** 转 **UART** 的开源串口调试器，该款芯片采用了小尺寸的 `QFN16` 封装，可以稳定支持 `921600` 波特率的 UART 串口通信。
 
 ![](./Images/PCB-3D-1.png)
 
